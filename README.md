@@ -1,24 +1,8 @@
-# vue-cli-firebase-crud
+## This is a CRUD App Using Vue CLI & Firebase
 
-## Project setup
-```
-npm install
-```
+	 1)There are just 1 file to configure firebase src/main.js
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## There are 5 errors (They are actually not errors. try to serve again.)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+- Stay Safe
+- Happy coding with Hridoy(Me)
